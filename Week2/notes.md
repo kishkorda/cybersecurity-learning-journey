@@ -1,1 +1,3 @@
+This week focused on understanding the fundamentals of cyber threat intelligence, including the difference between threats and cyber threats, and key concepts such as vulnerabilities, exploits, and risk. I learned about the different types of threat intelligence (strategic, tactical, operational, and technical) and how they are used to detect and respond to attacks.
 
+I also explored the threat intelligence lifecycle, from planning and data collection to analysis and dissemination. Additionally, I looked at how to identify emerging threats using sources like OSINT, and why using reliable information is critical to avoid false positives and false negatives.
