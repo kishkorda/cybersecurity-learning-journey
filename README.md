@@ -2,7 +2,7 @@
   ## Week 1 (Understand Cyber Security Principles)
  A. Introduction to Cybersecurity
  B.  Understand core terminology and key aspects of cyber security​.pdf
- C. Understand security by design principles.pdf
+ C. Understand security by design principles.
 
 ## Week 2 (Threat intelligence in Cyber Security)
 A. Understand cyber threat intelligence.
