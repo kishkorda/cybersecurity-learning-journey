@@ -1,9 +1,11 @@
  
  About Me
+Aspiring SOC Analyst currently studying Cyber Security Practices with Netcom Training.
+I am building hands-on knowledge in cyber security through structured learning and practical labs, focusing on threat awareness, networking, and incident response.
 
-Aspiring SOC Analyst with a background in [your background – e.g., IT, business, or student].  
-Currently training in cyber security with hands-on labs in threat analysis, networking, and incident response.  
-Focused on building practical skills using real-world tools and scenarios.
+Alongside my studies, I work at Marks & Spencer as a Customer Service / Operations Assistant, where I have developed strong problem-solving, communication, and teamwork skills in a fast-paced environment.
+
+I am particularly interested in blue team roles, including threat detection, monitoring, and responding to security incidents, and I am actively developing the skills required to start a career in cyber security.
 
 LinkedIn:www.linkedin.com/in/kish-korda-54a6153b8 
 CV: Download my CV(kishkorda-cv.dox)
