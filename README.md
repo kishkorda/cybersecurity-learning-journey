@@ -5,8 +5,8 @@ Aspiring SOC Analyst with a background in [your background – e.g., IT, busines
 Currently training in cyber security with hands-on labs in threat analysis, networking, and incident response.  
 Focused on building practical skills using real-world tools and scenarios.
 
-🔗 LinkedIn: [your link]  
-📄 CV (PDF): [upload to GitHub or Google Drive]
+LinkedIn:www.linkedin.com/in/kish-korda-54a6153b8 
+CV: Download my CV(kishkorda-cv.dox)
 
 
  Room: Common Attacks
