@@ -1,1 +1,1 @@
-
+ Key takeaway: This room highlighted how common attacks such as phishing, social engineering, and malware often exploit human behaviour rather than just technical vulnerabilities. Understanding these attack methods is essential for identifying and preventing security incidents in real-world environments.
