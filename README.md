@@ -39,7 +39,7 @@ Mitigation:
 
 Security awareness training
 Verification of identity before sharing information
-🔹 Phishing
+ Phishing
 
 What it is:
 Fraudulent emails or websites designed to steal login credentials or data.
@@ -55,7 +55,7 @@ Defence:
 Check sender email carefully
 Hover over links before clicking
 Use email filtering tools
-🔹 Malware & Ransomware
+ Malware & Ransomware
 
 What it is:
 Malicious software designed to damage, disrupt, or gain unauthorised access.
@@ -78,7 +78,7 @@ Mitigation:
 Antivirus software
 Regular updates
 Avoid downloading unknown files
-🔹 Passwords & Authentication
+ Passwords & Authentication
 
 Best Practices:
 
@@ -90,7 +90,7 @@ Risks:
 
 Brute force attacks
 Credential stuffing
-🔹 Multi-Factor Authentication (MFA)
+ Multi-Factor Authentication (MFA)
 
 What it is:
 Adds an extra layer of security beyond passwords.
@@ -104,7 +104,7 @@ Biometrics
 Benefit:
 
 Prevents unauthorised access even if passwords are compromised
-🔹 Public Network Safety
+ Public Network Safety
 
 Risks:
 
@@ -115,7 +115,7 @@ Mitigation:
 
 Avoid sensitive activity on public Wi-Fi
 Use VPNs
-🔹 Backups
+ Backups
 
 Why important:
 
@@ -124,7 +124,7 @@ Protects against ransomware and data loss
 Best Practice:
 
 Follow 3-2-1 rule (3 copies, 2 media types, 1 offsite)
-🔹 Updates & Patching
+ Updates & Patching
 
 Why important:
 
@@ -137,6 +137,6 @@ Systems become easy targets for attackers
 
 From this room, I learned how attackers exploit both technical vulnerabilities and human behaviour, and how basic security practices can significantly reduce risk.
 
-🏁 Key Takeaway
+ Key Takeaway
 
 Cybersecurity is not just about tools — it also involves user awareness, good practices, and layered defence.
