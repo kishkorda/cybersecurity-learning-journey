@@ -9,17 +9,17 @@ Focused on building practical skills using real-world tools and scenarios.
 📄 CV (PDF): [upload to GitHub or Google Drive]
 
 
-📚 Room: Common Attacks
+ Room: Common Attacks
 
-Status: Completed ✅
+Status: Completed 
 Platform: TryHackMe
 
-🧠 Overview
+Overview
 
 This room introduced common cyber attack methods used by threat actors and how to recognise and defend against them. It focused on both technical and human-based attacks.
 
-🎯 Key Topics & Breakdown
-🔹 Social Engineering
+ Key Topics & Breakdown
+ Social Engineering
 
 What it is:
 Manipulating people into giving away sensitive information.
@@ -133,7 +133,7 @@ Fixes vulnerabilities
 Risk if ignored:
 
 Systems become easy targets for attackers
-🧪 Real-World Application
+ Real-World Application
 
 From this room, I learned how attackers exploit both technical vulnerabilities and human behaviour, and how basic security practices can significantly reduce risk.
 
