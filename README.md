@@ -30,4 +30,14 @@ Many cyber attacks rely on exploiting human behaviour, making user awareness and
 
 From this room, I learned how attackers exploit both technical vulnerabilities and human behaviour, and how basic security practices can significantly reduce risk.
 
+Week 4
+ Room: Pentesting Fundamentals
+
+Status: ✅ Completed
+Platform: TryHackMe
+
+ Overview
+
+This room introduced the fundamentals of penetration testing, including how ethical hackers identify and assess system vulnerabilities.
+
  
