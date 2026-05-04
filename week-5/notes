@@ -1,1 +1,183 @@
+ Cyber Security Incident Response Notes
 
+ Unit Overview
+This unit covers:
+- Understanding Incident Response Plans (IRP)
+- Developing an IRP
+- Writing an incident post-mortem report
+
+
+
+ LO1: Incident Response Plan (IRP)
+
+ What is an IRP?
+A Cyber Security Incident Response Plan (IRP) is:
+ A set of instructions used to detect, respond to, and recover from cyber security incidents.
+
+
+
+ Purpose of an IRP
+- Helps organisations respond quickly to attacks
+- Minimises damage and downtime
+- Defines:
+  - Who is responsible
+  - What actions to take
+  - When to act
+
+
+
+ Why IRPs are Important
+- Protects business reputation
+- Reduces financial loss
+- Ensures legal and regulatory compliance
+- Improves overall security readiness
+
+
+
+ When is an IRP Used?
+- When unusual activity is detected (anomalies)
+- When security tools raise alerts
+- When a cyber incident is confirmed
+
+ During an incident:
+- Contain the threat
+- Notify stakeholders
+- Begin recovery
+
+
+
+ Incident Response Lifecycle
+
+ NIST Model
+1. Preparation  
+2. Detection & Analysis  
+3. Containment, Eradication & Recovery  
+4. Post-Incident Activity  
+
+ SANS Model
+- Preparation  
+- Identification  
+- Containment  
+- Eradication  
+- Recovery  
+- Lessons Learned  
+
+
+
+👨‍💻 Incident Response Roles
+- SOC Analyst  
+- Forensic Analyst  
+- Security Engineer  
+- Incident Manager  
+- CISO (Chief Information Security Officer)  
+
+---
+ LO2: Developing an IRP
+
+ Key Components
+
+ Key Contacts
+- IT team  
+- Management  
+- Legal & HR  
+- PR team  
+- Insurance providers  
+
+
+
+ Escalation Criteria
+Defines how incidents are prioritised:
+ Low → handled by IT  
+ High → escalated to senior management  
+
+
+
+ Response Process
+Should include:
+- Preparation  
+- Detection  
+- Response  
+- Recovery  
+
+
+
+ Legal & Regulatory Guidance
+- When to contact authorities  
+- How to collect evidence  
+- Compliance requirements  
+
+
+
+ Incident Logs
+
+ What is it?
+A record of all cyber security incidents.
+
+ Why it’s important:
+- Tracks past incidents  
+- Identifies patterns and trends  
+- Supports investigations  
+- Helps teams respond faster  
+- Required for compliance  
+
+
+
+ Without an IRP:
+- Slow response to attacks  
+- Confusion during incidents  
+- Increased damage and costs  
+- Legal risks  
+
+
+
+ LO3: Incident Post-Mortem
+
+ What is it?
+A review after an incident to:
+- Understand what happened  
+- Learn from mistakes  
+- Improve future responses  
+
+ Must be blame-free
+
+
+
+ Post-Mortem Process
+1. Review the incident  
+2. Ensure no blame culture  
+3. Create report  
+4. Share findings  
+5. Follow up actions  
+
+
+
+ Post-Mortem Report Includes:
+- Incident details  
+- Root cause analysis  
+- Timeline of events  
+- Actions taken  
+- Lessons learned  
+
+
+
+ Key Principles
+
+ Integrity
+- Honest and accurate reporting  
+
+ Rigour
+- Thorough investigation and analysis  
+
+ Discipline
+- Follow structured processes and standards  
+
+
+
+ Key Takeaways
+- Cyber attacks are unavoidable → planning is essential  
+- IRPs help reduce impact and improve response  
+- Logs and post-mortems support continuous improvement  
+
+
+
+---
