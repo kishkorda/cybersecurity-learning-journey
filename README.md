@@ -20,9 +20,8 @@ Threat detection
 Security monitoring
 Incident response
  Skills & Tools
-Networking: TCP/IP, Ports, Protocols
 Security Concepts: Vulnerabilities, Threats, Controls
- Nessus, TryHackMe
+ Nessus, TryHackMe,
 
  Learning Progress
 🔹 TryHackMe – Common Attacks
