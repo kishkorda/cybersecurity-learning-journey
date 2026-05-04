@@ -40,7 +40,7 @@ I am particularly interested in Blue Team roles, including:
  Learning Progress
 
   TryHackMe – Common Attacks
-Status: ✅ Completed  
+Status:  Completed  
 Platform:** TryHackMe  
 
  Key Takeaways
@@ -49,9 +49,8 @@ Platform:** TryHackMe
 - Strong security practices reduce risk  
 
 
-
- Week 4 – Pentesting Fundamentals
-Status: ✅ Completed  
+  Pentesting Fundamentals
+Status:  Completed  
 Platform: TryHackMe  
 
  Key Topics
@@ -59,11 +58,14 @@ Platform: TryHackMe
 - Ethical considerations  
 - Black box, white box, grey box testing  
 
----
 
- Unit 4 – Cyber Security Incident Response
-Status: ✅ Completed  
-Platform: Netcom Training  
+  Cyber Security Incident Response
+Status:  Completed  
+Platform: TryHackMe
+
+Cyber Governance
+Status: Completed
+Platform: TryHackME
 
  Overview
 Focused on how organisations detect, respond to, and recover from cyber security incidents** using structured plans.
